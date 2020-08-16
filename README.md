@@ -1,4 +1,5 @@
 ### Hey there, I'm Julie 👋
+Info about me:
 
 <!--
 **Juliest88/Juliest88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -61,3 +62,9 @@ Here are some ideas to get you started:
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
+
+
+
+<a href="https://github.com/Juliest88">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juliest88&count_private=true&hide=contribs,prs&show_icons=true&theme=great-gatsby&line_height=27&v=5" alt="Julia Strichash's GitHub Stats" />
+</a>
