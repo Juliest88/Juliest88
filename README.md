@@ -66,5 +66,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Juliest88">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juliest88&count_private=true&show_icons=true&theme=great-gatsby&line_height=27&v=5" alt="Julia Strichash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Juliest88&count_private=true&show_icons=true&theme=nightowl&line_height=27&v=5" alt="Julia Strichash's GitHub Stats" />
 </a>
