@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=180&section=header&text=Julie%20Strichash&fontSize=45&fontColor=fff" />
 ### Hey there, I'm Julie 👋
+
 I'm a Frontend & Full-Stack Web Developer with experience in building scalable, user-friendly applications.  
 I specialize in **JavaScript, Vue.js, Angular, React and Node.js**, and have a strong background in designing clean architectures and efficient UI components.
 
