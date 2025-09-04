@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 |---|---|---|---|---|---|---|---|
 | [<code><img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png"></code>](https://sass-lang.com/) | [<code><img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>](https://www.json.org/json-en.html) | [<code><img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png"></code>](https://nodejs.org/en/) | [<code><img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>](https://dev.mysql.com/) | [<code><img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png"></code>](https://git-scm.com/) | [<code><img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png"></code>](https://github.com/) | [<code><img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png"></code>](https://ubuntu.com/) | [<code><img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png"></code>](https://www.kernel.org/) |
 
+| <img src="https://github-readme-stats.vercel.app/api?username=Juliest88&count_private=true&show_icons=true&theme=dracula&line_height=27" alt="Julia Strichash's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juliest88&layout=compact&theme=dracula" alt="Top Languages" /> |
+|---|---|
 
-<a href="https://github.com/Juliest88">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juliest88&count_private=true&show_icons=true&theme=nightowl&line_height=27&v=5" alt="Julia Strichash's GitHub Stats" />
-</a>
