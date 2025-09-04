@@ -1,6 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=180&section=header&text=Julie%20Strichash&fontSize=45&fontColor=fff" />
 ### Hey there, I'm Julie 👋
-I'm a web developer passionate about blending creativity with tech skills. I taught myself programming, which has given me a solid grasp of it. I've worked with the latest tech, like JavaScript, Vue.js, and Angular, across different roles, from full-stack to focused frontend work. My path shows I can adapt and thrive in various settings. I love learning new things and am always on the lookout for challenges that push me to innovate and grow in the tech world.
+I'm a Frontend & Full-Stack Web Developer with experience in building scalable, user-friendly applications.  
+I specialize in **JavaScript, Vue.js, Angular, React and Node.js**, and have a strong background in designing clean architectures and efficient UI components.
+
+I’m passionate about solving problems with code, collaborating across teams, and continuously learning new technologies.
 
 <!--
 **Juliest88/Juliest88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
