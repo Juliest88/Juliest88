@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 | <img src="https://github-readme-stats.vercel.app/api?username=Juliest88&count_private=true&show_icons=true&theme=dracula&line_height=27" alt="Julia Strichash's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juliest88&layout=compact&theme=dracula" alt="Top Languages" /> |
 |---|---|
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=60&section=footer"/>
